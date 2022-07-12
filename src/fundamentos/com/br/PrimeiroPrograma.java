@@ -1,2 +1,7 @@
-package fundamentos.com.br;public class PrimeiroPrograma {
+package fundamentos.com.br;
+
+public class PrimeiroPrograma {
+    public static void main(String[] args) {
+        System.out.println("Primeiro Programa !!!");
+    }
 }
