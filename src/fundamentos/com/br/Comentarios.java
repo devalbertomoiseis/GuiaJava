@@ -12,7 +12,6 @@ public class Comentarios {
         // Sentença de Código termina ;
         // Mais uma linha...
         // Fim
-
         System.out.println("Primeiro Programa Parte #01");
 
     }
